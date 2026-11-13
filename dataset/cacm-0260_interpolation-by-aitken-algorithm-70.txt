@@ -1,0 +1,3 @@
+Interpolation By Aitken (Algorithm 70)
+
+Authors: Mifsud, C. J.

@@ -1,0 +1,3 @@
+Use of Magnetic Tape for Data Storage in the ORACLE-ALGOL Translator
+
+Authors: Bottenbruch, H.

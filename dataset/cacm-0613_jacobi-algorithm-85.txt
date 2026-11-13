@@ -1,0 +1,3 @@
+JACOBI (Algorithm 85)
+
+Authors: Evans, T. G.

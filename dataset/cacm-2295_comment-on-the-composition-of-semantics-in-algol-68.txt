@@ -1,0 +1,3 @@
+Comment on the Composition of Semantics in Algol 68
+
+Authors: van der Poel, W. L.

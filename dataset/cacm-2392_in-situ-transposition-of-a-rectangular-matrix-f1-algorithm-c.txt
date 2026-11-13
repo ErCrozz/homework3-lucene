@@ -1,0 +1,3 @@
+In-Situ Transposition of a Rectangular Matrix [F1] (Algorithm C380)
+
+Authors: Macleod, I. D. G.

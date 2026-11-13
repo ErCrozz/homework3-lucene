@@ -1,0 +1,3 @@
+SALE, a Simple Algebraic Language for Engineers
+
+Authors: Brittenham, W. R.; Clark, K.; Kuss, G.; Thompson, H.; Smith, A. O.

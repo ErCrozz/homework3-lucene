@@ -1,0 +1,3 @@
+A Proposal for Character Code Compatibility
+
+Authors: Bemer, R. W.

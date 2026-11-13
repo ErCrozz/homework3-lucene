@@ -1,0 +1,3 @@
+A Generalized Polyphase Merge Algorithm
+
+Authors: Reynolds, S. W.

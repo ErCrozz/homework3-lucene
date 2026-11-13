@@ -1,0 +1,3 @@
+Complete Elliptic Integral of the First Kind (Algorithm 55)
+
+Authors: Herndon, J. R.

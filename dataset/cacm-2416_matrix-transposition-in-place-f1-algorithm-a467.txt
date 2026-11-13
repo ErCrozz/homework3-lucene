@@ -1,0 +1,3 @@
+Matrix Transposition in Place [F1] (Algorithm A467)
+
+Authors: Brenner, N.

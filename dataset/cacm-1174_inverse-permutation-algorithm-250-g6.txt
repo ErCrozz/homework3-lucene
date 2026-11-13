@@ -1,0 +1,3 @@
+Inverse Permutation (Algorithm 250 [G6])
+
+Authors: Medlock, C. W.

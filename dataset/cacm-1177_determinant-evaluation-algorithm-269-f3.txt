@@ -1,0 +1,3 @@
+Determinant Evaluation (Algorithm 269 [F3])
+
+Authors: Pfann, J.

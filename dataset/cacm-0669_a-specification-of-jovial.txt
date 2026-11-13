@@ -1,0 +1,3 @@
+A Specification of JOVIAL
+
+Authors: Shaw, C. J.

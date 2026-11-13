@@ -1,0 +1,3 @@
+Language Problems Posed by Heavily Structured Data
+
+Authors: Barnes, R. F.

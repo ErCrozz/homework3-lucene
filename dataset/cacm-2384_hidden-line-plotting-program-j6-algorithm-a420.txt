@@ -1,0 +1,3 @@
+Hidden-Line Plotting Program [J6] (Algorithm A420)
+
+Authors: Williamson, H.

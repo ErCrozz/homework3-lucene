@@ -1,0 +1,3 @@
+Abscissas and Weights for Gregory Quadrature [D1])
+
+Authors: Welsch, J. H.

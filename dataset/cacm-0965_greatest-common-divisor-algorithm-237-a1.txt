@@ -1,0 +1,3 @@
+Greatest Common Divisor (Algorithm 237 [A1])
+
+Authors: Bray, T. A.

@@ -1,0 +1,3 @@
+SITAR: An Interactive Text Processing System for Small Computers (Corrigendum)
+
+Authors: Schneider, B. R. Jr.; Watts, R. M.

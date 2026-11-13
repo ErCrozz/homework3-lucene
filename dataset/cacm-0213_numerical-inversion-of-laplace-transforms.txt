@@ -1,0 +1,3 @@
+Numerical Inversion of Laplace Transforms
+
+Authors: Schmittroth, L. A.

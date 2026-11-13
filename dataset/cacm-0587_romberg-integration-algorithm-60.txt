@@ -1,0 +1,3 @@
+Romberg Integration (Algorithm 60)
+
+Authors: Buchner, K. H.

@@ -1,0 +1,3 @@
+Calculating Primes by Means of GPS (Algorithm)
+
+Authors: Naur, P.

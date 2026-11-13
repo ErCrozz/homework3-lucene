@@ -1,0 +1,3 @@
+The Alpha Vector Transformation of a System of Linear Constraints
+
+Authors: Wersan, S. J.

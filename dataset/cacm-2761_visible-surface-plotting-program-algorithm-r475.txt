@@ -1,0 +1,3 @@
+Visible Surface Plotting Program (Algorithm R475)
+
+Authors: Mashburn, R. G.

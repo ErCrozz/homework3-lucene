@@ -1,0 +1,3 @@
+Gamma Function with Arbitrary Precision (Algorithm 309 [S14])
+
+Authors: Filho, A. M.S.; Schwachheim, G.

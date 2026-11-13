@@ -1,0 +1,3 @@
+Chebyshev Solution to an Overdetermined Linear System (Algorithm 328 [F4])
+
+Authors: Bartels, R. H.; Goulub, H. G.

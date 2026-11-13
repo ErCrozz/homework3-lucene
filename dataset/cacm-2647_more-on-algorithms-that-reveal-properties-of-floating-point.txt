@@ -1,0 +1,3 @@
+More on Algorithms that Reveal Properties of Floating Point Arithmetic Units
+
+Authors: Gentleman, W. M.; Marovich, S. B.

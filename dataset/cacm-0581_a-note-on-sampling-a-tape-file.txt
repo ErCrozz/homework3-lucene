@@ -1,0 +1,3 @@
+A Note on Sampling a Tape-File
+
+Authors: Jones, T. G.

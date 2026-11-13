@@ -1,0 +1,3 @@
+Bisection Routine (Algorithm 4)
+
+Authors: Gorn,S.

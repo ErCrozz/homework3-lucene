@@ -1,0 +1,3 @@
+Radical-Inverse Quasi-Random Point Sequence (Algorithm 247 [G5])
+
+Authors: Halton, J. H.; Smith, G. B.

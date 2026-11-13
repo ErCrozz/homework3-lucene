@@ -1,0 +1,3 @@
+Arrow to Precedence Network Transformation [H] (Algorithm A481)
+
+Authors: Crandall, K. C.

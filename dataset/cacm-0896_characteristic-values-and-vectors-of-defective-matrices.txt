@@ -1,0 +1,3 @@
+Characteristic Values and Vectors of Defective Matrices
+
+Authors: Thompson, G. T.

@@ -1,0 +1,3 @@
+Decomposability, Instabilities, and Saturation in Multiprogramming Systems (Corrigendum)
+
+Authors: Courtois, P. J.

@@ -1,0 +1,3 @@
+NPL: Highlights of A New Programming Language
+
+Authors: Radin, G.; Rogoway, H. P.

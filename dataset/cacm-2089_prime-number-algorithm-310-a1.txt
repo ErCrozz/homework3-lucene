@@ -1,0 +1,3 @@
+Prime Number (Algorithm 310 $A1))
+
+Authors: Rapp, D. G.; Scott, L. D.

@@ -1,0 +1,3 @@
+In-Situ Transposition of a Rectangular Matrix (Algorithm 380 $F1))
+
+Authors: Laflin, S.; Brebner, M. A.

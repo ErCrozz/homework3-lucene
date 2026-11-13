@@ -1,0 +1,3 @@
+A Weighted Buddy Method for Dynamic Storage Allocation (Corrigendum)
+
+Authors: Shen, K. K.; Peterson, J. L.

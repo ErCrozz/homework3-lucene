@@ -1,0 +1,3 @@
+PERMUTATION (Algorithm 71)
+
+Authors: Hillmore, J. S.

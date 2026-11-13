@@ -1,0 +1,3 @@
+Generation of Random Correlated Normal Variables (Algorithm R425)
+
+Authors: Page, R. L.

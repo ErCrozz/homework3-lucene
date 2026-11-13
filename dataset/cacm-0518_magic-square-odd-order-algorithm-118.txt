@@ -1,0 +1,3 @@
+Magic Square (Odd Order) (Algorithm 118)
+
+Authors: Collison, D. M.

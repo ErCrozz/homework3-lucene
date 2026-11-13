@@ -1,0 +1,3 @@
+Maxflow (Algorithm 324 [H])
+
+Authors: Bayer, G.

@@ -1,0 +1,3 @@
+Rosenbrock Function Minimization (Algorithm R450)
+
+Authors: Klemes, J.; Klemsa, J.

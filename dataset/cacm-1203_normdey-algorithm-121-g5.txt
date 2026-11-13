@@ -1,0 +1,3 @@
+Normdey (Algorithm 121 [G5])
+
+Authors: Pike, M. C.

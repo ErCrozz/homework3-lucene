@@ -1,0 +1,3 @@
+FORTRAN Subroutines for Time Series Data Reduction*
+
+Authors: MacGowan, R. A.

@@ -1,0 +1,3 @@
+Find Precedence Functions (Algorithm 265 [L2])
+
+Authors: Wirth, N.

@@ -1,0 +1,3 @@
+Tableless Date Conversion (Algorithm R398)
+
+Authors: Robertson, J. D.

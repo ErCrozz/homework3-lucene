@@ -1,0 +1,3 @@
+Parameter Estimation for Simple Nonlinear Models
+
+Authors: Chow, W. M.

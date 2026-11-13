@@ -1,0 +1,3 @@
+Note On Empirical Bounds For Generating Bessel Functions
+
+Authors: Randels, J. B.; Reeves, R. F.

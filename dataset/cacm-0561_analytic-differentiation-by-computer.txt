@@ -1,0 +1,3 @@
+Analytic Differentiation By Computer
+
+Authors: Hanson, J. W.; Caviness, J. S.; Joseph, C.

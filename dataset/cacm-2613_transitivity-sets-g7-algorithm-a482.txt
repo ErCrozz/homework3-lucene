@@ -1,0 +1,3 @@
+Transitivity Sets [G7] (Algorithm A482)
+
+Authors: McKay, J.; Regener, E.

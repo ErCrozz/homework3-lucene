@@ -1,0 +1,3 @@
+Equivalence Between AND/OR Graphs and Context-Free Grammars
+
+Authors: Hall, P. A. V.

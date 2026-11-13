@@ -1,0 +1,3 @@
+Linear Equation Solver [F4] (Algorithm A423)
+
+Authors: Moler, C. B.

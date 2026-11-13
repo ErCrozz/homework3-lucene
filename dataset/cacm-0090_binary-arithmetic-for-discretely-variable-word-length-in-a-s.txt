@@ -1,0 +1,3 @@
+Binary Arithmetic for Discretely Variable Word Length in a Serial Computer
+
+Authors: Ercoli, P.; Vacca, R.

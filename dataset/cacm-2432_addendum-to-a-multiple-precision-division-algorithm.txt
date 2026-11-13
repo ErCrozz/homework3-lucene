@@ -1,0 +1,3 @@
+Addendum to a Multiple-Precision Division Algorithm
+
+Authors: Mifsud, C. J.; Bohlen, M. J.

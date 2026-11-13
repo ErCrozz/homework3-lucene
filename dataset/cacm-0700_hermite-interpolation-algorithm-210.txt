@@ -1,0 +1,3 @@
+Hermite Interpolation (Algorithm 210)
+
+Authors: Dwyer, T. A.

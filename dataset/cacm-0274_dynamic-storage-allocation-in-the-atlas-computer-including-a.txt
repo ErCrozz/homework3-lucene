@@ -1,0 +1,3 @@
+Dynamic Storage Allocation in the Atlas Computer, Including an Automatic Use of a Backing Store
+
+Authors: Fotheringham, J.

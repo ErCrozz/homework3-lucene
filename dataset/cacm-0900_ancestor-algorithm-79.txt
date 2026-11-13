@@ -1,0 +1,3 @@
+Ancestor (Algorithm 79)
+
+Authors: Thacher Jr., H. C.

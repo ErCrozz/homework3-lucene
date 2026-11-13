@@ -1,0 +1,3 @@
+Three Procedures for the Stable Marriage Problem [H] (Algorithm 411)
+
+Authors: McVitie, D. G.; Wilson, L. B.

@@ -1,0 +1,3 @@
+Enumerating Combinations of m Out of n Objects [G6] (Algorithm A452)
+
+Authors: Liu, C. N; Tang, D. T.

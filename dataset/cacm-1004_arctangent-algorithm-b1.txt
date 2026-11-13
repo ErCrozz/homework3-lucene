@@ -1,0 +1,3 @@
+Arctangent (Algorithm [B1])
+
+Authors: Mills, K. W.

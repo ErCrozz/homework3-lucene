@@ -1,0 +1,3 @@
+Equivalence of Hough Curve Detection to Template Matching
+
+Authors: Stockman, G. C.

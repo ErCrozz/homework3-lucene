@@ -1,0 +1,3 @@
+Matrix Division (Algorithm 197)
+
+Authors: Wells, M.

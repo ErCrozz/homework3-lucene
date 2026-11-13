@@ -1,0 +1,3 @@
+An Algol Construction for Procedures as Parameters of Procedures
+
+Authors: Knight, K. R.

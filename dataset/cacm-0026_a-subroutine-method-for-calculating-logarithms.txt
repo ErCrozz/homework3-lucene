@@ -1,0 +1,3 @@
+A Subroutine Method for Calculating Logarithms
+
+Authors: Bemer, R. W.

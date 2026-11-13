@@ -1,0 +1,3 @@
+Magic Square (Algorithm 118)
+
+Authors: Thacher Jr., H. C.

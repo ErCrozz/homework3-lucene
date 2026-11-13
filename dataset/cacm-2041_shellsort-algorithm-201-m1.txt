@@ -1,0 +1,3 @@
+Shellsort (Algorithm 201 $M1))
+
+Authors: Chandler, J. P.; Harrison, W. C.

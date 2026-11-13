@@ -1,0 +1,3 @@
+Polynomial Evaluation Revised
+
+Authors: Eisman, S. H.

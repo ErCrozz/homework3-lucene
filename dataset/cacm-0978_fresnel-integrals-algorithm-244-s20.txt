@@ -1,0 +1,3 @@
+Fresnel Integrals (Algorithm 244 [S20])
+
+Authors: Lotsch, H.

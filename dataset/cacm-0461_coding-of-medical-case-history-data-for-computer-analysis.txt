@@ -1,0 +1,3 @@
+Coding of Medical Case History Data for Computer Analysis
+
+Authors: Lipkin, M.; Woodbury, M. A.

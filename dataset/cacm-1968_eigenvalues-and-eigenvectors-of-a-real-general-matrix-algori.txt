@@ -1,0 +1,3 @@
+Eigenvalues and Eigenvectors of a Real General Matrix (Algorithm 343 $F1))
+
+Authors: Knight, W.; Mersereau, W.

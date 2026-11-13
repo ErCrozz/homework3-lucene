@@ -1,0 +1,3 @@
+Finding a Solution of N Functional Equations in N Unknown (Algorithm 314 [C5])
+
+Authors: Dulley, D.B.; Pitteway, L. V.

@@ -1,0 +1,3 @@
+Procedure for the Normal Distribution Functions (Algorithm 272 [S15])
+
+Authors: MacLaren, M. D.

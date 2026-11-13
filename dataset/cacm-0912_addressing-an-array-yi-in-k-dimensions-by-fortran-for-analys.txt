@@ -1,0 +1,3 @@
+Addressing an Array Yi in k-Dimensions by Fortran for Analysis of Variance
+
+Authors: Garber, M. J.

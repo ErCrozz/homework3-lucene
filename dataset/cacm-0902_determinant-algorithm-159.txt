@@ -1,0 +1,3 @@
+Determinant (Algorithm 159)
+
+Authors: Digby, D. W.

@@ -1,0 +1,3 @@
+Shanks (Algorithm 215)
+
+Authors: Schumaker, L.

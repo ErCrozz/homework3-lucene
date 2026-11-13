@@ -1,0 +1,3 @@
+Compiling Techniques for Boolean Expressions and Conditional Statements in ALGOL 60
+
+Authors: Huskey, H. D.; Wattenburg, W. H.

@@ -1,0 +1,3 @@
+Compiling Matrix Operations
+
+Authors: Galler, B. A.; Perlis, A. J.

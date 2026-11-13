@@ -1,0 +1,3 @@
+Term of Magic Square (Algorithm 148)
+
+Authors: Barnecut, J. N. R.

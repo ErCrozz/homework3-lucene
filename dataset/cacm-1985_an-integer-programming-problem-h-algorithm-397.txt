@@ -1,0 +1,3 @@
+An Integer Programming Problem $H) (Algorithm 397)
+
+Authors: Chang, S. K.; Gill, A.

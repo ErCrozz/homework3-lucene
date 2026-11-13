@@ -1,0 +1,3 @@
+Uniform Random (Algorithm 294 [G5])
+
+Authors: Strome, W. M.

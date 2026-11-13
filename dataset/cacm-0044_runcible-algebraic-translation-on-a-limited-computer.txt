@@ -1,0 +1,3 @@
+RUNCIBLE-Algebraic Translation on a Limited Computer
+
+Authors: Knuth, D. E.

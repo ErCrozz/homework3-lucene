@@ -1,0 +1,3 @@
+Jacobi Polynomials (Algorithm 332 [S22])
+
+Authors: Witte, B. F. W.

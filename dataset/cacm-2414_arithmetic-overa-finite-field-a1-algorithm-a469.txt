@@ -1,0 +1,3 @@
+Arithmetic Overa Finite Field [A1] (Algorithm A469)
+
+Authors: Lam, C.; McKay, J.

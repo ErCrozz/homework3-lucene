@@ -1,0 +1,3 @@
+Incomplete Beta Ratio (Algorithm R179)
+
+Authors: Bosten, N. E.; Battiste, E. L.

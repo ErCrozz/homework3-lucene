@@ -1,0 +1,3 @@
+Coefficient Determination (Algorithm 131)
+
+Authors: Smith, V. H.; Allen, M. L.

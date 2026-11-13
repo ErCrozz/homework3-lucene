@@ -1,0 +1,3 @@
+Manipulation of Trees in Information Retrieval*
+
+Authors: Salton, G.

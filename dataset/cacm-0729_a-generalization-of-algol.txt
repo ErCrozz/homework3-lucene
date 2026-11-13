@@ -1,0 +1,3 @@
+A Generalization of ALGOL
+
+Authors: Wirth, N.

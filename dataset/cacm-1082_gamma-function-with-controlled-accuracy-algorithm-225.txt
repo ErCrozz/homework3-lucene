@@ -1,0 +1,3 @@
+Gamma Function with Controlled Accuracy (Algorithm 225)
+
+Authors: Cyvin, S. J.; Cyvin, B. N.

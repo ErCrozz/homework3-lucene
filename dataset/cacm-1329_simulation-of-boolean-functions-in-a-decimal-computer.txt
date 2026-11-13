@@ -1,0 +1,3 @@
+Simulation of Boolean Functions in a Decimal computer
+
+Authors: Mano, M. M.

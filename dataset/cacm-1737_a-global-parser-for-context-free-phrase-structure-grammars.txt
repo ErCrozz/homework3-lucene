@@ -1,0 +1,3 @@
+A Global Parser for Context-Free Phrase Structure Grammars
+
+Authors: Unger, S. H.

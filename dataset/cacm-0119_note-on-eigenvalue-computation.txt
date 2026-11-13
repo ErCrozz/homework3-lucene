@@ -1,0 +1,3 @@
+Note on Eigenvalue Computation
+
+Authors: Andrus, J. F.

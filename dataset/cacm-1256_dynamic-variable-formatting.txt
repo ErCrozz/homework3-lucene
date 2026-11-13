@@ -1,0 +1,3 @@
+Dynamic Variable Formatting
+
+Authors: King, D. R.

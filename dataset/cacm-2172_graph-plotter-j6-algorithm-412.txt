@@ -1,0 +1,3 @@
+Graph Plotter [J6] (Algorithm 412)
+
+Authors: Cermak, J.

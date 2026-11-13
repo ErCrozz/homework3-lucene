@@ -1,0 +1,3 @@
+Airy Function (Algorithm 301 [S20])
+
+Authors: Pitteway, M. L. V.

@@ -1,0 +1,3 @@
+Difference Expression Coefficients (Algorithm 79)
+
+Authors: Giammo, T. P.

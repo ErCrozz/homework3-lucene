@@ -1,0 +1,3 @@
+Least Squares Solution with Constraints (Algorithm 177)
+
+Authors: Synge, M. J.

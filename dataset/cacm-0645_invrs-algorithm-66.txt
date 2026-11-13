@@ -1,0 +1,3 @@
+INVRS (Algorithm 66)
+
+Authors: Randell, B.; Broyden, C. G.

@@ -1,0 +1,5 @@
+An Algorithm for Filon Quadrature
+
+An algorithm for Filon quadrature is described. Considerable attention has been devoted to an analysis of the round-off and truncation errors. The algorithm includes an automatic error control feature.
+
+Authors: Chase, S. M.; Fosdick, L. D.

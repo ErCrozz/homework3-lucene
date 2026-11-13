@@ -1,0 +1,3 @@
+Unitary Symmetric Polynomials $Z) (Algorithm 391)
+
+Authors: McKay, J.

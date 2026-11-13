@@ -1,0 +1,3 @@
+Gauss (Algorithm 209 [S15])
+
+Authors: Pike, M. C.

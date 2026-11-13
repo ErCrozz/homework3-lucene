@@ -1,0 +1,3 @@
+Complex Arithmetic (Algorithm 186)
+
+Authors: Vande Riet, R. P.

@@ -1,0 +1,3 @@
+Multiple Exists from a Loop Using Neither GO TO nor Labels
+
+Authors: Evans, R. V.

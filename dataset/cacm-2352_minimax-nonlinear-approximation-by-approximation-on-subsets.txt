@@ -1,0 +1,3 @@
+Minimax Nonlinear Approximation by Approximation on Subsets
+
+Authors: Dunham, C. B.

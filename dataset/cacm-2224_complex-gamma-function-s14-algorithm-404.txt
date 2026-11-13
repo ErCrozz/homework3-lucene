@@ -1,0 +1,3 @@
+Complex Gamma Function [S14] (Algorithm 404)
+
+Authors: Lucas Jr., C. W.; Terrill, C. W.

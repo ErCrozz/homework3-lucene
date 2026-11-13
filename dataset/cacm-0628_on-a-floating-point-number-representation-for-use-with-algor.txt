@@ -1,0 +1,3 @@
+On a Floating-Point Number Representation For Use with Algorithmic Languages
+
+Authors: Grau, A. A.

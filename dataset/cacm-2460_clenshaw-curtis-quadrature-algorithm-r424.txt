@@ -1,0 +1,3 @@
+Clenshaw-Curtis Quadrature (Algorithm R424)
+
+Authors: Good, A. J.

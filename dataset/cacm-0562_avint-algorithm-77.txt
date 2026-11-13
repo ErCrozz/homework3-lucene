@@ -1,0 +1,3 @@
+AVINT (Algorithm 77)
+
+Authors: Whittier, V. E.

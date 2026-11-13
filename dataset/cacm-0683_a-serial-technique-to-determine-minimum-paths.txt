@@ -1,0 +1,3 @@
+A Serial Technique to Determine Minimum Paths
+
+Authors: Weimer, D. L.

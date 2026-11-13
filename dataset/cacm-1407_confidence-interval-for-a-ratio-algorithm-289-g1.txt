@@ -1,0 +1,3 @@
+Confidence Interval for a Ratio (Algorithm 289 [G1])
+
+Authors: Hill, I. D.; Pike, M. C.

@@ -1,0 +1,3 @@
+Efficient Handling of Binary Data
+
+Authors: Raduchel, W. J.

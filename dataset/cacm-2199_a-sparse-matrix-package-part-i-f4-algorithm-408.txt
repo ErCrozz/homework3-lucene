@@ -1,0 +1,3 @@
+A Sparse Matrix Package (Part I) [F4] (Algorithm 408)
+
+Authors: McNamee, J. M.

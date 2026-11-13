@@ -1,0 +1,3 @@
+Interference in Multiprocessor Computer Systems with Interleaved Memory (Corrigendum)
+
+Authors: Baskett, F.; Smith, A. J.

@@ -1,0 +1,3 @@
+Determination of the Square Root of a Positive Definite Matrix (Algorithm 298 [F1])
+
+Authors: Duke, B. J.

@@ -1,0 +1,3 @@
+Discrete Linear L1 Approximation by interval Linear Programming [E2] (Algorithm A458)
+
+Authors: Robers, P. D.; Robers, S. S.

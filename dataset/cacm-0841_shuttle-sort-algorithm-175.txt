@@ -1,0 +1,3 @@
+Shuttle Sort (Algorithm 175)
+
+Authors: Shaw, C. J.; Trimble, T. N.

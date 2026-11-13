@@ -1,0 +1,3 @@
+GOMORY (Algorithm 153)
+
+Authors: Lefkowitz, B.; D'Esopo, D. A.

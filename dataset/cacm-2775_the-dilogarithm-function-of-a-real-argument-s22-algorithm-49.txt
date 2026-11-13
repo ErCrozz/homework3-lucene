@@ -1,0 +1,3 @@
+The Dilogarithm Function of a Real Argument [S22] (Algorithm 490)
+
+Authors: Ginsberg, E. S.; Zaborowski, D.

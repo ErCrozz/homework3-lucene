@@ -1,0 +1,3 @@
+Foreword to the Special Issue on Computer Architecture
+
+Authors: Fuller,S.H.

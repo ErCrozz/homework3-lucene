@@ -1,0 +1,3 @@
+Tchebycheff (Algorithm 36)
+
+Authors: Gianni, A. J.

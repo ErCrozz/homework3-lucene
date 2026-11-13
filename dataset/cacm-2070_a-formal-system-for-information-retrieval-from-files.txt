@@ -1,0 +1,3 @@
+A Formal System for Information Retrieval from Files
+
+Authors: Hsiao, D.; Harary, F.

@@ -1,0 +1,3 @@
+Two Views of Data Abstraction
+
+Authors: Ledgard, H. F.; Taylor, R. W.

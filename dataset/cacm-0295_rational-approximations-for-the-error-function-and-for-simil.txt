@@ -1,0 +1,3 @@
+Rational Approximations for the Error Function and for Similar Functions
+
+Authors: Clendenin, W. W.

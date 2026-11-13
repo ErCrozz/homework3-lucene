@@ -1,0 +1,3 @@
+Procedures for computing Smoothing and Interpolating Natural Splines [E1] (Algorithm A480)
+
+Authors: Lyche, T.; Schumaker, L. L.

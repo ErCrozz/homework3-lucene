@@ -1,0 +1,3 @@
+Chebyschev Curve-Fit (revised) (Algorithm 318 [E2])
+
+Authors: Boothroyd, J.

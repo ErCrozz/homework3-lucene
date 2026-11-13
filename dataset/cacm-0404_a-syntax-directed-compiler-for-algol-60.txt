@@ -1,0 +1,3 @@
+A Syntax Directed Compiler for ALGOL 60
+
+Authors: Irons, E. T.

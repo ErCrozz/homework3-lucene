@@ -1,0 +1,3 @@
+A SAP-Like Assembly Program for the IBM 650
+
+Authors: Speckhard, A. E.

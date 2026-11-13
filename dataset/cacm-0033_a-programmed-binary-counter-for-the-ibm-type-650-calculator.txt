@@ -1,0 +1,3 @@
+A Programmed Binary Counter For The IBM Type 650 Calculator
+
+Authors: Kenny, B. C.; Hunter, J. A.

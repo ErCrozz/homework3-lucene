@@ -1,0 +1,3 @@
+Greatest Common Divisor (Algorithm 237 [A1])
+
+Authors: Peck, J. E. L.

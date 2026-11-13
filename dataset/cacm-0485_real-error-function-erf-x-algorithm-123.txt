@@ -1,0 +1,3 @@
+Real Error Function, ERF(x) (Algorithm 123)
+
+Authors: Crawford, M.; Techo, R.

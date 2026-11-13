@@ -1,0 +1,3 @@
+Immediate Predominators in a Directed Graph [H] (Algorithm A430)
+
+Authors: Purdom Jr., P. W.; Moore, E. F.

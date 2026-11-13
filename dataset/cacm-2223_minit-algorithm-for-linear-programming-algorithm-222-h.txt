@@ -1,0 +1,3 @@
+Minit Algorithm For Linear Programming (Algorithm 222 [H])
+
+Authors: Kolm, A.; Dahlstrand, T.

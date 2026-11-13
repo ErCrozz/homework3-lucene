@@ -1,0 +1,3 @@
+Examination Scheduling (Algorithm 286 [ZH])
+
+Authors: Peck, J. E. L.; Williams, M. R.

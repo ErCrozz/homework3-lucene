@@ -1,0 +1,3 @@
+A Note on Fitting Great Circles by Least Squares
+
+Authors: Marcus, C. F.

@@ -1,0 +1,3 @@
+Solution of Linear Programs in 0-1 Variables by Implicit Enumeration (Algorithm 341 $H))
+
+Authors: Guignard, M. M.

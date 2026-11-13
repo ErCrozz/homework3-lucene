@@ -1,0 +1,3 @@
+An Improvement to Martin's Algorithm for Computation of Linear Precedence Functions
+
+Authors: Duong-Kien, C.; Hoffmann, H. J.; Muth, D.

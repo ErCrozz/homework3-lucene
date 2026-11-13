@@ -1,0 +1,3 @@
+An Algol Procedure for the Fast Fourier Transform with Arbitrary Factors (Algorithm 339 [C6])
+
+Authors: Singleton, R. C.

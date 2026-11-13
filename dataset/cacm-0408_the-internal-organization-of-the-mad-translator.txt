@@ -1,0 +1,3 @@
+The Internal Organization of the MAD Translator
+
+Authors: Arden, B. W.; Galler, B. A.; Graham, R. M.

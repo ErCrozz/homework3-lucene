@@ -1,0 +1,3 @@
+Transportation Problem (Algorithms 293 [H])
+
+Authors: Bayer, G.

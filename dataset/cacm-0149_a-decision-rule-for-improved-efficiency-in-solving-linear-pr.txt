@@ -1,0 +1,3 @@
+A Decision Rule for Improved Efficiency in Solving Linear Programming Problems with the Simplex Algorithm
+
+Authors: Dickson, J. C.; Frederick, F. P.

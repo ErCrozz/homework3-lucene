@@ -1,0 +1,3 @@
+Complex Gamma Function (Algorithm R404,C404)
+
+Authors: Andrejkova, G.; Vinar, J.

@@ -1,0 +1,3 @@
+A Note on the LU Factorization of a Symmetric Matrix
+
+Authors: Evans, D. J.; Hatzopoulos, M.

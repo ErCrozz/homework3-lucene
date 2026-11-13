@@ -1,0 +1,3 @@
+Hypergeometric (Algorithm C191)
+
+Authors: Kopelaar, H.

@@ -1,0 +1,3 @@
+Ten Subroutines for the Manipulation of Chebyshev Series [C1] (Algorithm A446)
+
+Authors: Broucke, R.

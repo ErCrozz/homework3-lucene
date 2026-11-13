@@ -1,0 +1,3 @@
+Conjugate Gradient Method (Algorithm 238 [F4])
+
+Authors: Reeves, C. M.

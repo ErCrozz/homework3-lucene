@@ -1,0 +1,3 @@
+Systems of Hyperbolic PDE $D3) (Algorithm 392)
+
+Authors: Smith, R. R.; McCall, D.

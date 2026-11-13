@@ -1,0 +1,3 @@
+Filon Quadrature (Algorithm 353 $D1))
+
+Authors: Fosdick, L. D.; Einarsson, Bo

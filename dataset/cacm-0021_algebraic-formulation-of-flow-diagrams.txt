@@ -1,0 +1,3 @@
+Algebraic Formulation of Flow Diagrams
+
+Authors: Voorhees, E. A.

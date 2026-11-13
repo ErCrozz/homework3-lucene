@@ -1,0 +1,3 @@
+Condition Numbers of PEI Matrices
+
+Authors: Rokne, J.

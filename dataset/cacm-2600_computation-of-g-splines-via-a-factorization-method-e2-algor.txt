@@ -1,0 +1,3 @@
+Computation of g-Splines via a Factorization Method [E2] (Algorithm A485)
+
+Authors: Eidson, H. D.; Schumaker, L. L.

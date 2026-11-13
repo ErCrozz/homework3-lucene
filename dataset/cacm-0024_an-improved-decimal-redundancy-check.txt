@@ -1,0 +1,3 @@
+An Improved Decimal Redundancy Check
+
+Authors: Sisson, R. L.

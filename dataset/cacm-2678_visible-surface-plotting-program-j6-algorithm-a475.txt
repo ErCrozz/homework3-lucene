@@ -1,0 +1,3 @@
+Visible Surface Plotting Program [J6] (Algorithm A475)
+
+Authors: Wright, T.

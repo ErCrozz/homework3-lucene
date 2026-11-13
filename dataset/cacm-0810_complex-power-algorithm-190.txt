@@ -1,0 +1,3 @@
+Complex Power (Algorithm 190)
+
+Authors: Relph, A. P.

@@ -1,0 +1,3 @@
+EULER: A Generalization of ALGOL, and its Formal Definition
+
+Authors: Wirth, N.; Weber, H.

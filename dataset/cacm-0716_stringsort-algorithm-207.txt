@@ -1,0 +1,3 @@
+Stringsort (Algorithm 207)
+
+Authors: Boothroyd, J.

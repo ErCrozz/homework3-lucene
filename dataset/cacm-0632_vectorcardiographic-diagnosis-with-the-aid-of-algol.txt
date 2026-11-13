@@ -1,0 +1,3 @@
+Vectorcardiographic Diagnosis With The Aid of ALGOL
+
+Authors: Forsythe, G. E.; Von Der Groeben, J.; Toole, J. G.

@@ -1,0 +1,3 @@
+Euler Summation (Algorithm 8)
+
+Authors: Thacher Jr., H. C.

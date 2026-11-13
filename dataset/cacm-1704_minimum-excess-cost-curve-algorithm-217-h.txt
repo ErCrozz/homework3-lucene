@@ -1,0 +1,3 @@
+Minimum Excess Cost Curve (ALgorithm 217 [H])
+
+Authors: Muth, J. F.

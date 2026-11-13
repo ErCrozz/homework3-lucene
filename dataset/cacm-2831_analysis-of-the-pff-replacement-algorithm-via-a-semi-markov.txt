@@ -1,0 +1,3 @@
+Analysis of the PFF Replacement Algorithm via a Semi-Markov Model (Corrigendum)
+
+Authors: Chu, W. W.; Opderbeck, H.

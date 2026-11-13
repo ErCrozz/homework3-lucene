@@ -1,0 +1,3 @@
+Recursive Curve Fitting Technique
+
+Authors: Giblin, J.

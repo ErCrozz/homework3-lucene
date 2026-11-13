@@ -1,0 +1,3 @@
+Retrieval Times for a Packed Direct Access Inverted File
+
+Authors: Bayes, A. J.

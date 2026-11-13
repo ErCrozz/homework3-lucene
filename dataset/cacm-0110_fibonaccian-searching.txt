@@ -1,0 +1,3 @@
+Fibonaccian Searching
+
+Authors: Ferguson, D. E.

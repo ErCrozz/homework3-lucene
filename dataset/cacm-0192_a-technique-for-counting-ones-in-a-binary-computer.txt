@@ -1,0 +1,3 @@
+A Technique for Counting Ones in a Binary Computer
+
+Authors: Wegner, P.

@@ -1,0 +1,3 @@
+A Note on Data Base Deadlocks
+
+Authors: Baecker, H. D.

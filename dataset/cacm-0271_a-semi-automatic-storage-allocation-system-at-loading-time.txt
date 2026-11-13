@@ -1,0 +1,3 @@
+A Semi-Automatic Storage Allocation System at Loading Time
+
+Authors: Heising, W. P.; Larner, R. A.

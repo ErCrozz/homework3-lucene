@@ -1,0 +1,3 @@
+The Storage Requirement in Precedence Parsing
+
+Authors: Bertsch, E.

@@ -1,0 +1,3 @@
+A Note on Multiple Precision Arithmetic
+
+Authors: Cox, A. G.; Luther, H. A.

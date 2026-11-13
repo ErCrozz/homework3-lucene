@@ -1,0 +1,3 @@
+Quick Calculation of Jacobian Elliptic Functions
+
+Authors: Salzer, H. E.

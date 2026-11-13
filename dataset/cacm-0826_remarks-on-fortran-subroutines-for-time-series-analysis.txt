@@ -1,0 +1,3 @@
+Remarks on Fortran Subroutines for Time Series Analysis
+
+Authors: Bennett, C. M.

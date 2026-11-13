@@ -1,0 +1,3 @@
+Comment on Brent's Scatter Storage Algorithm
+
+Authors: Feldman, J. A.; Low, J. R.

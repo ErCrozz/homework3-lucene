@@ -1,0 +1,3 @@
+Crout with Pivoting II (Algorithm 43)
+
+Authors: Thacher Jr., H. C.

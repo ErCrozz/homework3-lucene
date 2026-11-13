@@ -1,0 +1,3 @@
+Solution of the Matrix Equation AX+XB=C [F4] (Algorithm A432)
+
+Authors: Bartels, R. H.; Stewart, G. W.

@@ -1,0 +1,3 @@
+Decision Table Translation $H) (Algorithm 394)
+
+Authors: Dial, R. B.

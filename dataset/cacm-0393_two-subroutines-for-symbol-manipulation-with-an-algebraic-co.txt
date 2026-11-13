@@ -1,0 +1,3 @@
+Two Subroutines for Symbol Manipulation with an Algebraic Compiler
+
+Authors: Carr III, J. W.; Hanson, J. W.

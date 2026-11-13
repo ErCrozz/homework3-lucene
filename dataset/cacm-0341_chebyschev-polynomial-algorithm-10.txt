@@ -1,0 +1,3 @@
+Chebyschev Polynomial (Algorithm 10)
+
+Authors: Herndon, J.

@@ -1,0 +1,3 @@
+Note on an Anomaly in Paging
+
+Authors: Pomeranz,J. E.

@@ -1,0 +1,3 @@
+MATHSORT (Algorithm 23)
+
+Authors: Ranshaw, R. W.

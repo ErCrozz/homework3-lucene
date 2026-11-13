@@ -1,0 +1,3 @@
+A Real Time Data Assimilator
+
+Authors: Gschwind, H. W.

@@ -1,0 +1,3 @@
+CORC-The Cornell Computing Language
+
+Authors: Conway, R. W.; Maxwell, W. L.

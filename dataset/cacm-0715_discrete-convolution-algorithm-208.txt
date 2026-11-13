@@ -1,0 +1,3 @@
+Discrete Convolution (Algorithm 208)
+
+Authors: Foreman Jr., W. T.

@@ -1,0 +1,3 @@
+Stringsort (Algorithm 207 [M1])
+
+Authors: Blair, C. R.

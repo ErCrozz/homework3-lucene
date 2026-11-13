@@ -1,0 +1,3 @@
+A Note on Cheney's Nonrecursive List-Compacting Algorithm
+
+Authors: Walden, D. C.

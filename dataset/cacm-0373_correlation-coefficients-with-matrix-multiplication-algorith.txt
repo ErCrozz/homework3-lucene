@@ -1,0 +1,3 @@
+Correlation Coefficients with Matrix Multiplication (Algorithm 39)
+
+Authors: Sassouni, P.

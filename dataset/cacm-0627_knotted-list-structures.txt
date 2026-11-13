@@ -1,0 +1,3 @@
+Knotted List Structures
+
+Authors: Weizenbaum, J.

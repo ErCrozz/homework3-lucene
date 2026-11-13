@@ -1,0 +1,3 @@
+Complementary Error Function (Algorithm 181 [S15])
+
+Authors: Clausen, I.; Hansson,L.

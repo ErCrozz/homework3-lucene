@@ -1,0 +1,3 @@
+A Note on Hash Linking
+
+Authors: Bobrow, D. G.

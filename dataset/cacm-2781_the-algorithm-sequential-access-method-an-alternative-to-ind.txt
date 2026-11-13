@@ -1,0 +1,3 @@
+The Algorithm Sequential Access Method: An Alternative to Index Sequential
+
+Authors: Whitt, J. D.; Sullenberger, A. G.

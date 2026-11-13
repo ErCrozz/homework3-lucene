@@ -1,0 +1,3 @@
+Realizing Boolean Connectives on The IBM 1620
+
+Authors: Hellerman, H.; Senzig, D. N.

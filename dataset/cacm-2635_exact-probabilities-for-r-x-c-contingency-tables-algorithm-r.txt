@@ -1,0 +1,3 @@
+Exact Probabilities for R X C Contingency Tables (Algorithm R434)
+
+Authors: Boulton, D. M.

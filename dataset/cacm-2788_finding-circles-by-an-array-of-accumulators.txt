@@ -1,0 +1,3 @@
+Finding Circles by an Array of Accumulators
+
+Authors: Kimme, C.; Balard, D.; Sklansky, J.

@@ -1,0 +1,3 @@
+Chi-Squared Integral (Algorithm 299 [S15])
+
+Authors: Hill, I. D.; Pike, M. C.

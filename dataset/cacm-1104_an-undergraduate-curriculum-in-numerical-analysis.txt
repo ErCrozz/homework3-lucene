@@ -1,0 +1,3 @@
+An Undergraduate Curriculum in Numerical Analysis
+
+Authors: Forsythe, G. E.

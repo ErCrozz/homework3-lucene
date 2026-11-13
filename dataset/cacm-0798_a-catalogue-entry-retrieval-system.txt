@@ -1,0 +1,3 @@
+A Catalogue Entry Retrieval System
+
+Authors: Scheff, B. H.

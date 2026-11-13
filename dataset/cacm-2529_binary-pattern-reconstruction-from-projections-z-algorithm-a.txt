@@ -1,0 +1,3 @@
+Binary Pattern Reconstruction from Projections [Z] (Algorithm A445)
+
+Authors: Chang, S.

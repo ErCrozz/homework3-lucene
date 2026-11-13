@@ -1,0 +1,3 @@
+Simpson's Rule Integrator (Algorithm 103)
+
+Authors: Kuncir, G. F.

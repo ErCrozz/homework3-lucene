@@ -1,0 +1,3 @@
+Minit Algorithm for Linear Programming (Algorithm R333)
+
+Authors: Holmgren, B.; Obradovic, D.; Kolm, A.

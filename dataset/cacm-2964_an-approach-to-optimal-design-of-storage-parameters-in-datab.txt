@@ -1,0 +1,3 @@
+An Approach to Optimal Design of Storage Parameters in Databases
+
+Authors: Milman, Y.

@@ -1,0 +1,3 @@
+Average Binary Search Length for Dense Ordered Lists
+
+Authors: Flores, I.; Madpis, G.

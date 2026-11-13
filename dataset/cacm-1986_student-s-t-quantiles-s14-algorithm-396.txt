@@ -1,0 +1,3 @@
+Student's t-Quantiles $S14) (Algorithm 396)
+
+Authors: Hill, G. W.

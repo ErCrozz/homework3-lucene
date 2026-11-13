@@ -1,0 +1,3 @@
+Least Squares Surface Fit (Algorithm R176)
+
+Authors: Schuegraf, E.

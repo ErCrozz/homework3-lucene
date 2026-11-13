@@ -1,0 +1,3 @@
+Documentation Problems: ALGOL 60
+
+Authors: Naur, P.

@@ -1,0 +1,3 @@
+A Technique for Computing Critical Rotational Speeds of Flexible Shafts on an Automatic Computer
+
+Authors: Schwartz, B. L.

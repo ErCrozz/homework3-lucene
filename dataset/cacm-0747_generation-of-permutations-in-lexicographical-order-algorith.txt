@@ -1,0 +1,3 @@
+Generation of Permutations in Lexicographical Order (Algorithm 202)
+
+Authors: Shen, M. K.

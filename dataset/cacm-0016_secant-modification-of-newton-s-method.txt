@@ -1,0 +1,3 @@
+Secant Modification of Newton's Method
+
+Authors: Jeeves, T. A.

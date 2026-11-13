@@ -1,0 +1,3 @@
+Quickersort (Algorithm 271 [M1])
+
+Authors: Scowen, R. S.

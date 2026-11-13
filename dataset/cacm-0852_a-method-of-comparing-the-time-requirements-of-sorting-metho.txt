@@ -1,0 +1,3 @@
+A Method of Comparing the Time Requirements of Sorting Methods
+
+Authors: Hall, M. H.

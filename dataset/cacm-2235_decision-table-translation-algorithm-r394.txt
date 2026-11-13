@@ -1,0 +1,3 @@
+Decision Table Translation (Algorithm R394)
+
+Authors: Marshall, D. R. T.

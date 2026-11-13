@@ -1,0 +1,3 @@
+Confluent Hypergeometric (Algorithm 192)
+
+Authors: Relph, A. P.

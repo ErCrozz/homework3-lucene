@@ -1,0 +1,3 @@
+Interval Estimation of the Time in One State to Total Time Ratio in a DoubleExponential Process
+
+Authors: Neal, W. R.

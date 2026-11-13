@@ -1,0 +1,3 @@
+String Distribution for the Polyphase Sort
+
+Authors: Malcolm Jr., W. D.

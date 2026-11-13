@@ -1,0 +1,3 @@
+Molecular-Orbital Calculation of Molecular Interactions
+
+Authors: Kruglyak, Y. A.; Whitman, D. R.

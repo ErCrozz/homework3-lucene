@@ -1,0 +1,5 @@
+Simulations of Dynamic Sequential Search Algorithms
+
+None
+
+Authors: Tenenbaum, A.

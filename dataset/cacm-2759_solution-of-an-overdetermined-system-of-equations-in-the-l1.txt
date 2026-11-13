@@ -1,0 +1,3 @@
+Solution of an Overdetermined System of Equations in the L1 Norm (Algorithm R478)
+
+Authors: Fritsch, F. N.; Hindmarsh, A. C.

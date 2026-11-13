@@ -1,0 +1,3 @@
+Complete Elliptic Integral of the Second Kind (Algorithm 56)
+
+Authors: Herndon, J. R.

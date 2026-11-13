@@ -1,0 +1,3 @@
+NELIAC-A Dialect of ALGOL
+
+Authors: Huskey, H. D.; Halstead, M. H.

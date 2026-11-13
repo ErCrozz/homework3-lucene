@@ -1,0 +1,3 @@
+The Arithmetic Translator-Compiler of the IBM FORTRAN Automatic Coding System
+
+Authors: Sheridan, P. B.

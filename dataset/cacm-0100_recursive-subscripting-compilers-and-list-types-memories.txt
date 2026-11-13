@@ -1,0 +1,3 @@
+Recursive Subscripting Compilers and List-Types Memories
+
+Authors: Carr III, J. W.

@@ -1,0 +1,3 @@
+Partition, Quicksort, and Find (Algorithm 62, 64, & 65)
+
+Authors: Randell, B.; Russell, L. J.

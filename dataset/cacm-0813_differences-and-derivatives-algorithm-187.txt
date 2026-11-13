@@ -1,0 +1,3 @@
+Differences and Derivatives (Algorithm 187)
+
+Authors: Vande Riet, R. P.

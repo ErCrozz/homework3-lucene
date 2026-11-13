@@ -1,0 +1,3 @@
+Logarithm of a Complex Number (Algorithm 48)
+
+Authors: Johnson, M. L.; Sangren, W.

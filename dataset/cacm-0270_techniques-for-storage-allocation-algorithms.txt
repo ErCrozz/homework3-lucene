@@ -1,0 +1,3 @@
+Techniques for Storage Allocation Algorithms
+
+Authors: Kelley Jr., J. E.

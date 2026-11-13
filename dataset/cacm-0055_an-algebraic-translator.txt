@@ -1,0 +1,3 @@
+An Algebraic Translator
+
+Authors: Kaner, H.

@@ -1,0 +1,3 @@
+The Algorithm SELECT-for Finding the ith Smallest of n Elements [M1] (Algorithm 489)
+
+Authors: Floyd, R. W.; Rivest, R. L.

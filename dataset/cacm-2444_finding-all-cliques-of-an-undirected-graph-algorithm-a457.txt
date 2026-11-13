@@ -1,0 +1,3 @@
+Finding All Cliques of an Undirected Graph (Algorithm A457)
+
+Authors: Bron, C.; Kerbosch, J.

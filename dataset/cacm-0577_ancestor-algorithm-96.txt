@@ -1,0 +1,3 @@
+ANCESTOR (Algorithm 96)
+
+Authors: Floyd, R. W.

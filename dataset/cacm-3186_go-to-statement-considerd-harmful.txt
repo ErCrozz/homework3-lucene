@@ -1,0 +1,3 @@
+GO TO Statement Considerd Harmful
+
+Authors: Dijkstra, E. W.

@@ -1,0 +1,3 @@
+A Controller for a Braille Terminal
+
+Authors: Rubinstein, R.; Feldman, J.

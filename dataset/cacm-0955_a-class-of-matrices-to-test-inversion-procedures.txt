@@ -1,0 +1,3 @@
+A Class of Matrices to Test Inversion Procedures
+
+Authors: Cline, R. E.

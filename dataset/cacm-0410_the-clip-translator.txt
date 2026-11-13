@@ -1,0 +1,3 @@
+The CLIP Translator
+
+Authors: Englund, D.; Clark, E.

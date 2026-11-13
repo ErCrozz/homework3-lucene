@@ -1,0 +1,3 @@
+The Elementary Circuits of a Graph [H] (Algorithm A459)
+
+Authors: Syslo,M. M.

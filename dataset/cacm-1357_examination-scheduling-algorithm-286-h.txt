@@ -1,0 +1,3 @@
+Examination Scheduling (Algorithm 286 [H])
+
+Authors: Williams, R.

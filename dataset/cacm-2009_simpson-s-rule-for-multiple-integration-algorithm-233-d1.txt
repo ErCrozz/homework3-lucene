@@ -1,0 +1,3 @@
+Simpson's Rule for Multiple Integration (Algorithm 233 $D1))
+
+Authors: Proll, L. G.

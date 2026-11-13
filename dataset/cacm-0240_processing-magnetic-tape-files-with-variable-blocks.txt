@@ -1,0 +1,3 @@
+Processing Magnetic Tape Files with Variable Blocks
+
+Authors: Graham, J. W.; Sprott, D. A.

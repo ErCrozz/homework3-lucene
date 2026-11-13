@@ -1,0 +1,3 @@
+Matrix Permutation (Algorithm 230)
+
+Authors: Boothroyd, J.

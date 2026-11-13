@@ -1,0 +1,3 @@
+Multiprocessing Compactifying Garbage Collection (Corrigendum)
+
+Authors: Steele, G. L. Jr.

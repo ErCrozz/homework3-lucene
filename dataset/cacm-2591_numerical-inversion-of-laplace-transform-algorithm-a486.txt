@@ -1,0 +1,3 @@
+Numerical Inversion of Laplace Transform (Algorithm A486)
+
+Authors: Veillon, F.

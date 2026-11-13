@@ -1,0 +1,3 @@
+QUICKSORT (Algorithm 64)
+
+Authors: Hoare, C. A. R.

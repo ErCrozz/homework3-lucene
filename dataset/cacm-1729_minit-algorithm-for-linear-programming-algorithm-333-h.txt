@@ -1,0 +1,3 @@
+Minit Algorithm for Linear Programming (Algorithm 333 [H])
+
+Authors: Salazar, R. C.; Sen, S.K.

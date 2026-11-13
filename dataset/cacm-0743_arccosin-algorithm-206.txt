@@ -1,0 +1,3 @@
+ARCCOSIN (Algorithm 206)
+
+Authors: Konda, M.

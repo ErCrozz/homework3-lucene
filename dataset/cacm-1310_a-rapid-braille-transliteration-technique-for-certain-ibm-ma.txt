@@ -1,0 +1,3 @@
+A Rapid Braille Transliteration Technique for Certain IBM Machines
+
+Authors: Weiler, W. J.; Klema, V. C.

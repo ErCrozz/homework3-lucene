@@ -1,0 +1,3 @@
+Comment on Bell's Quadratic Quotient Method for Hash Code Searching
+
+Authors: Lamport, L.

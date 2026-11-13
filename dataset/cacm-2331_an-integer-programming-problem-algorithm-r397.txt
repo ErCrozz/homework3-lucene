@@ -1,0 +1,3 @@
+An Integer Programming Problem (Algorithm R397)
+
+Authors: Johnson, S. C.; Kernighan, B. W.

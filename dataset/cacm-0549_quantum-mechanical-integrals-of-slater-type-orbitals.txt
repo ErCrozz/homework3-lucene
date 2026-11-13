@@ -1,0 +1,3 @@
+Quantum Mechanical Integrals of Slater-Type Orbitals
+
+Authors: Kruglyak, Y. A.; Whitman, D. R.

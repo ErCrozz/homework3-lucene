@@ -1,0 +1,3 @@
+Permanent Function of a Square Matrix I and II (Algorithm 361 $G6))
+
+Authors: Shriver, B.; Eberlein, P. J.; Dixon, R. D.

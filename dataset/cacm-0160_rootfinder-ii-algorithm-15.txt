@@ -1,0 +1,3 @@
+ROOTFINDER II (Algorithm 15)
+
+Authors: Thacher Jr., H. C.

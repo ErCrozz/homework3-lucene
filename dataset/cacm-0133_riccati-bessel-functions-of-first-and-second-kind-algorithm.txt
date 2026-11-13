@@ -1,0 +1,3 @@
+Riccati-Bessel Functions of First And Second Kind (Algorithm 22)
+
+Authors: Oser, H.

@@ -1,0 +1,3 @@
+Chebyshev Polynomial Coefficients (Algorithm 227)
+
+Authors: Cyvin, S. J.

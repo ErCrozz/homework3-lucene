@@ -1,0 +1,3 @@
+Multi-Dimensional Partition Generator (Algorithm 313 [A1])
+
+Authors: Bratley, P.; McKay, J. K. S.

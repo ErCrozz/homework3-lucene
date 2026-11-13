@@ -1,0 +1,3 @@
+Orthogonal Polynomial Least Squares Surface Fit (Algorithm 164)
+
+Authors: Bitterli, C. V.

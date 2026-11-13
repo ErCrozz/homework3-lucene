@@ -1,0 +1,13 @@
+nome compiler
+nome sorting algorithm
+nome "time sharing"
+nome FORTRAN
+contenuto garbage collection
+contenuto "garbage collection"
+contenuto parsing
+contenuto +deadlock +"operating system"
+contenuto "binary search" -tree
+contenuto hash tables collisions
+contenuto "the of and"
+titolo prova
+nome

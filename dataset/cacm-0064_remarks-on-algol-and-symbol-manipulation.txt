@@ -1,0 +1,3 @@
+Remarks on ALGOL and Symbol Manipulation
+
+Authors: Green, J.

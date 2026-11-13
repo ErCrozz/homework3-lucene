@@ -1,0 +1,3 @@
+An Empirical Study of Minimal Storage Sorting
+
+Authors: Hibbard, T. N.

@@ -1,0 +1,3 @@
+A Syntactical Chart of ALGOL 60
+
+Authors: Taylor, W.; Turner, L.; Waychoff, R.

@@ -1,0 +1,3 @@
+Graycode (Algorithm 246 [Z])
+
+Authors: Allen, W. D.

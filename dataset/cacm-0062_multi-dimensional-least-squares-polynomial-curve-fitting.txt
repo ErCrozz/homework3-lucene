@@ -1,0 +1,3 @@
+Multi-Dimensional Least-Squares Polynomial Curve Fitting
+
+Authors: Lesh, F. H.

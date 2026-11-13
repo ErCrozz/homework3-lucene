@@ -1,0 +1,3 @@
+Normal Random Deviates (Algorithm 334 [G5])
+
+Authors: Knop, R.

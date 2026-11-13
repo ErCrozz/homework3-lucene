@@ -1,0 +1,3 @@
+Rosenbrock Function Minimization [E4] (Algorithm A450)
+
+Authors: Machura, M.; Mulawa, A.

@@ -1,0 +1,3 @@
+Chebyshev Curvefit (Algorithm 91)
+
+Authors: Hale, R. P.

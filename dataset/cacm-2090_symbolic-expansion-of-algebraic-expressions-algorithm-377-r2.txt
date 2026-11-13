@@ -1,0 +1,3 @@
+Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2))
+
+Authors: Levine, M. J.

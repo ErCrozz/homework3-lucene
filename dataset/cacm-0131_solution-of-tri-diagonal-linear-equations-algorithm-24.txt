@@ -1,0 +1,3 @@
+Solution of Tri-Diagonal Linear Equations (Algorithm 24)
+
+Authors: Leavenworth, B.

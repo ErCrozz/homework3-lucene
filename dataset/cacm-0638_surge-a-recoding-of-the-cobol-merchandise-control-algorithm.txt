@@ -1,0 +1,3 @@
+SURGE: A Recoding of the COBOL Merchandise Control Algorithm
+
+Authors: Longo, L. F.

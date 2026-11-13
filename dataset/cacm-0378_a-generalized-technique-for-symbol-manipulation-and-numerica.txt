@@ -1,0 +1,3 @@
+A Generalized Technique for Symbol Manipulation and Numerical Calculation
+
+Authors: Ross, D. T.

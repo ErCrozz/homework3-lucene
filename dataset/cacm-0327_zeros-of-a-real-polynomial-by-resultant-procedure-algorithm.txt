@@ -1,0 +1,3 @@
+Zeros of a Real Polynomial by Resultant Procedure (Algorithm 59)
+
+Authors: Bareiss, E. H.; Fisherkeller, M. A.

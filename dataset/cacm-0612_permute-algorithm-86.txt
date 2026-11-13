@@ -1,0 +1,3 @@
+Permute (Algorithm 86)
+
+Authors: Peck, J. E. L.; Schrack, G. F.

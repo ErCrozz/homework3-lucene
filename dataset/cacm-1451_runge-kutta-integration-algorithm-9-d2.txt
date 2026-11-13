@@ -1,0 +1,3 @@
+Runge-Kutta Integration (Algorithm 9 [D2])
+
+Authors: Thacher Jr., H. C.

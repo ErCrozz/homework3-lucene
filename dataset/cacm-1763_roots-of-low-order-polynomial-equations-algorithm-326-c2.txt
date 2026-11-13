@@ -1,0 +1,3 @@
+Roots of Low-Order Polynomial Equations (Algorithm 326 [C2])
+
+Authors: Nonweiler, T. F.

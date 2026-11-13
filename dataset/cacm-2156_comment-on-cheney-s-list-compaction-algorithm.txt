@@ -1,0 +1,3 @@
+Comment on Cheney's List-Compaction Algorithm
+
+Authors: Fenichel, R. R.

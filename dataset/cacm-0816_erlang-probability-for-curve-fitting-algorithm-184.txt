@@ -1,0 +1,3 @@
+Erlang Probability for Curve Fitting (Algorithm 184)
+
+Authors: Colker, A.

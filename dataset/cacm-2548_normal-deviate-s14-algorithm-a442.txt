@@ -1,0 +1,3 @@
+Normal Deviate [S14] (Algorithm A442)
+
+Authors: Hill, G. W.; Davis, A. W.

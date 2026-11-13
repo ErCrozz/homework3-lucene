@@ -1,0 +1,3 @@
+Number of Multiply-Restricted Partitions [A1] (Algorithm A448)
+
+Authors: Beyer, T.; Swinehart, D. F.

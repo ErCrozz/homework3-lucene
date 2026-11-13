@@ -1,0 +1,3 @@
+PARTITION (Algorithm 63)
+
+Authors: Hoare, C. A. R.

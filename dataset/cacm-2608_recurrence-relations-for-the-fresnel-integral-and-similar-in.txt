@@ -1,0 +1,3 @@
+Recurrence Relations for the Fresnel Integral and Similar Integrals
+
+Authors: Acton, F. S.

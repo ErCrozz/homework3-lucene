@@ -1,0 +1,3 @@
+FACTORIAL (Algorithm 33)
+
+Authors: Lipp, M. F.

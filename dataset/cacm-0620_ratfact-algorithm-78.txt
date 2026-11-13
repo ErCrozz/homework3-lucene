@@ -1,0 +1,3 @@
+RATFACT (Algorithm 78)
+
+Authors: Halstead, M. H.

@@ -1,0 +1,3 @@
+Triangular Regression (Algorithm 142)
+
+Authors: Hafley, W. L.; Lewis, J. S.

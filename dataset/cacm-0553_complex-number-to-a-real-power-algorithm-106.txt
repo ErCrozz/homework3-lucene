@@ -1,0 +1,3 @@
+Complex Number to a Real Power (Algorithm 106)
+
+Authors: Johnson, M. L.; Sangren, W.

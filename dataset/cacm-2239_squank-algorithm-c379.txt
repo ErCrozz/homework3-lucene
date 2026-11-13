@@ -1,0 +1,3 @@
+Squank (Algorithm C379)
+
+Authors: Hallet, P.; Mund, E.

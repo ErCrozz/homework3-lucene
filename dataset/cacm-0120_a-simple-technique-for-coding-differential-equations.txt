@@ -1,0 +1,3 @@
+A Simple Technique for Coding Differential Equations
+
+Authors: Sefton, P.; Vaillancourt, R.

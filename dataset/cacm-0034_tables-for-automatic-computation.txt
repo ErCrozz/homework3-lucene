@@ -1,0 +1,3 @@
+Tables for Automatic Computation
+
+Authors: Wilf, H. S.

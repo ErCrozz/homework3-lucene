@@ -1,0 +1,3 @@
+Simultaneous Displacement of Polynomial Roots if Real and Simple (Algorithm 283 [C2])
+
+Authors: Kerner, I. O.

@@ -1,0 +1,3 @@
+Evaluation of the Fresnel Sine Integral (Algorithm 89)
+
+Authors: Cundiff, J. L.

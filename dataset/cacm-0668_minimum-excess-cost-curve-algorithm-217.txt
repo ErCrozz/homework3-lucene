@@ -1,0 +1,3 @@
+Minimum Excess Cost Curve (Algorithm 217)
+
+Authors: Briggs, W. A.

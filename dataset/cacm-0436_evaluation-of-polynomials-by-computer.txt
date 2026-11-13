@@ -1,0 +1,3 @@
+Evaluation of Polynomials by Computer
+
+Authors: Knuth, D. E.

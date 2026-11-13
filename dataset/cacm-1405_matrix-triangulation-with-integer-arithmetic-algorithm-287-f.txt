@@ -1,0 +1,3 @@
+Matrix Triangulation with Integer Arithmetic (Algorithm 287 [F1])
+
+Authors: Blankinship, W. A.

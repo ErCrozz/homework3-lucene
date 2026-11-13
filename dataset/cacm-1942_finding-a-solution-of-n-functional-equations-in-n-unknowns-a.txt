@@ -1,0 +1,3 @@
+Finding a Solution of N Functional Equations in N Unknowns (Algorithm 314 [C5])
+
+Authors: Vandergraft, J.; Mesztenyi, C.

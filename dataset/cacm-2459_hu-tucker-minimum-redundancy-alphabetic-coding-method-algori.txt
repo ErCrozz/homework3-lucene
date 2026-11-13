@@ -1,0 +1,3 @@
+Hu-Tucker Minimum Redundancy Alphabetic Coding Method (Algorithm R428)
+
+Authors: Byrne, J. G.

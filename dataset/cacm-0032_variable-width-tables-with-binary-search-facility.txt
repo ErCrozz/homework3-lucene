@@ -1,0 +1,3 @@
+Variable-Width Tables with Binary-Search Facility
+
+Authors: Halpern, M.

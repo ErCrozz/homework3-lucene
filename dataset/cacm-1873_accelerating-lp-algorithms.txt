@@ -1,0 +1,5 @@
+Accelerating LP Algorithms
+
+It is shown how a novel method for computing (related) inner products can accelerate the pricing phase of LP algorithms. Other LP applications are indicated.
+
+Authors: Fox, B. L.

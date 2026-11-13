@@ -1,0 +1,3 @@
+Monitors: An Operating System Structuring Concept (Corrigendum)
+
+Authors: Hoare, C. A. R.

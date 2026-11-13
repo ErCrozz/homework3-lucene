@@ -1,0 +1,3 @@
+Fixed-World-Length Arrays in Variable-Word-Length Computers
+
+Authors: Sonquist, J. A.

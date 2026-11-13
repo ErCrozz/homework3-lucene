@@ -1,0 +1,3 @@
+A Minimal Spanning Tree Clustering Method (Algorithm R479)
+
+Authors: Magnuski, H. S.

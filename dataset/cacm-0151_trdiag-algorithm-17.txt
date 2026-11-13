@@ -1,0 +1,3 @@
+TRDIAG (Algorithm 17)
+
+Authors: Sprague III, C. D.

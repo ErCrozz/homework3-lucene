@@ -1,0 +1,3 @@
+On Foster's Information Storage and Retrieval Using AVL Trees
+
+Authors: Tan, K. C.

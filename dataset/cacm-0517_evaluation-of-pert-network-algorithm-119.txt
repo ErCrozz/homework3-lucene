@@ -1,0 +1,3 @@
+Evaluation of Pert Network (Algorithm 119)
+
+Authors: Eisenman, B.; Shapiro, M.

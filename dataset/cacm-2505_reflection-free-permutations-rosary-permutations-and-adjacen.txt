@@ -1,0 +1,3 @@
+Reflection-Free Permutations, Rosary Permutations, and Adjacent Transposition Algorithms
+
+Authors: Roy, M. K.

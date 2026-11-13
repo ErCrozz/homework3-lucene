@@ -1,0 +1,3 @@
+Incomplete Elliptic Integrals (Algorithm 73)
+
+Authors: van De Riet, R. P.

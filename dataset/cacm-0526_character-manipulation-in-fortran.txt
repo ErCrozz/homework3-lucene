@@ -1,0 +1,3 @@
+Character Manipulation in Fortran
+
+Authors: Pyle, I. C.

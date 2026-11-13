@@ -1,0 +1,3 @@
+Jacobi Polynomials (Algorithm R332)
+
+Authors: Skovgaard, O.

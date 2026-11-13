@@ -1,0 +1,3 @@
+More on kth Shortest Paths
+
+Authors: Fox, B.L.

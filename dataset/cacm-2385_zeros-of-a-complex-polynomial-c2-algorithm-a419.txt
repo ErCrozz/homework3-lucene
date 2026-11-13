@@ -1,0 +1,3 @@
+Zeros of a Complex Polynomial [C2] (Algorithm A419)
+
+Authors: Jenkins, M. A.; Traub, J. F.

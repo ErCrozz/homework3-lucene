@@ -1,0 +1,3 @@
+An Imaginary Number System
+
+Authors: Knuth, D.

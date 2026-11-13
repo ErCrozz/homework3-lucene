@@ -1,0 +1,3 @@
+A Divisionless Method of Integer Conversion
+
+Authors: Clarkson, W. K.; Prince, B. M.

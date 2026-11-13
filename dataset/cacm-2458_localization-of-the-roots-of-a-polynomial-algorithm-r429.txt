@@ -1,0 +1,3 @@
+Localization of the Roots of a Polynomial (Algorithm R429)
+
+Authors: Williams, E. J.

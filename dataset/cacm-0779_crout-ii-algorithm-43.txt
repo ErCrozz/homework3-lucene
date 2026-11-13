@@ -1,0 +1,3 @@
+CROUT II (Algorithm 43)
+
+Authors: Domingo, C.; Rodriguez-Gil, F.

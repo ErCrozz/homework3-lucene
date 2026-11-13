@@ -1,0 +1,3 @@
+Some Proposals for Improving the Efficiency of ALGOL 60
+
+Authors: Wilkes, M. V.

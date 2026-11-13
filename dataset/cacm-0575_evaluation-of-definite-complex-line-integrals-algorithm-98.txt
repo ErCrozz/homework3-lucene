@@ -1,0 +1,3 @@
+Evaluation of Definite Complex Line Integrals (Algorithm 98)
+
+Authors: Pfaltz, J. L.

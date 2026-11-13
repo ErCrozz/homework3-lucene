@@ -1,0 +1,3 @@
+The Linking Segment Subprogram Language and Linking Loader
+
+Authors: McCarthy, J.; Corbato, F. J.; Daggett, M. M.

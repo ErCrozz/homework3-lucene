@@ -1,0 +1,3 @@
+Evaluation of Jacobi Symbol (Algorithm 99)
+
+Authors: May, R. W.

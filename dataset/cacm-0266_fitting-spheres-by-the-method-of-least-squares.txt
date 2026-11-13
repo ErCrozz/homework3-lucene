@@ -1,0 +1,3 @@
+Fitting Spheres by the Method of Least Squares
+
+Authors: Robinson, S. M.

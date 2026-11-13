@@ -1,0 +1,3 @@
+A Note on Subexpression Ordering in the Evaluation of Arithmetic Expressions
+
+Authors: Denning, P. J.; Graham, G. S.

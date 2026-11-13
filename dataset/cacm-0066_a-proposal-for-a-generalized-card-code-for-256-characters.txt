@@ -1,0 +1,3 @@
+A Proposal for a Generalized Card Code for 256 Characters
+
+Authors: Bemer, R. W.

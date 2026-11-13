@@ -1,0 +1,3 @@
+An Algorithm Defining ALGOL Assignment Statements (Addendum)
+
+Authors: Floyd, R. W.

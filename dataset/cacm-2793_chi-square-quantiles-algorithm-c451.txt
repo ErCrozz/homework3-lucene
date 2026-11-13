@@ -1,0 +1,3 @@
+Chi-Square Quantiles (Algorithm C451)
+
+Authors: Knight,W.

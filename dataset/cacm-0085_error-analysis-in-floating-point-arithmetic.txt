@@ -1,0 +1,3 @@
+Error Analysis in Floating Point Arithmetic
+
+Authors: Carr III, J. W.

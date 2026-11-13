@@ -1,0 +1,3 @@
+Some Thoughts on Parallel Processing
+
+Authors: Yarbrough, L. D.

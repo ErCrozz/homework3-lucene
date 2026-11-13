@@ -1,0 +1,3 @@
+Extraction of Roots by Repeated Subtractions for Digital Computers
+
+Authors: Sugai, I.

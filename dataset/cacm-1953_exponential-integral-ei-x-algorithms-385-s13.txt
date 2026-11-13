@@ -1,0 +1,3 @@
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+
+Authors: Redish, K. A.

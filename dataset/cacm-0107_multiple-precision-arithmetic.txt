@@ -1,0 +1,3 @@
+Multiple Precision Arithmetic
+
+Authors: Pope, D. A.; Stein, M. L.

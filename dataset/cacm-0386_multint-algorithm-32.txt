@@ -1,0 +1,3 @@
+MULTINT (Algorithm 32)
+
+Authors: Freeman Jr., R. D.

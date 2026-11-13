@@ -1,0 +1,3 @@
+Masked Three-Dimensional Plot Program with Rotations [J6] (Algorithm A483)
+
+Authors: Watkins, S. L.

@@ -1,0 +1,3 @@
+Muller's Method for Finding Roots of an Arbitrary Function (Algorithm 196)
+
+Authors: Roman, R. D.

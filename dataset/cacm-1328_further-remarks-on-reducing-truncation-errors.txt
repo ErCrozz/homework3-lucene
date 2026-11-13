@@ -1,0 +1,3 @@
+Further Remarks on Reducing Truncation Errors
+
+Authors: Kahan, W.

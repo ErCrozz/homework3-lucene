@@ -1,0 +1,3 @@
+The Elementary Circuits of a Graph (Algorithm R459)
+
+Authors: Syslo, M. M.

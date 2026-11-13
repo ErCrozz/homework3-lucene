@@ -1,0 +1,3 @@
+Nonrecursive Adaptive Integration (Algorithm 182)
+
+Authors: McKeeman, W. M.; Tesler, L.

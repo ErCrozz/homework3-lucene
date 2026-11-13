@@ -1,0 +1,3 @@
+Curve Fitting with Format Fortran
+
+Authors: Garber, M. J.

@@ -1,0 +1,3 @@
+Remark on Uniform Insertion in Structured Data Structures
+
+Authors: Hollander, C.R.

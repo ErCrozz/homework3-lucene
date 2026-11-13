@@ -1,0 +1,3 @@
+Complete Elliptic Integrals (Algorithm 165)
+
+Authors: Thacher Jr., H. C.

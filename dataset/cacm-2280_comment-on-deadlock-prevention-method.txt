@@ -1,0 +1,3 @@
+Comment on Deadlock Prevention Method
+
+Authors: Parnas, D. L.; Habermann, A. N.

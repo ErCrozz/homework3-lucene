@@ -1,0 +1,3 @@
+Multiple-Precision Binary-To-Decimal Integer Conversion Using Only Addition And Subtraction
+
+Authors: Keyes, D. F.; Moore, D. P.

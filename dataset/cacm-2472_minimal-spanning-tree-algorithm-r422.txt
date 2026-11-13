@@ -1,0 +1,3 @@
+Minimal spanning Tree (Algorithm R422)
+
+Authors: Kernighan, B. W.

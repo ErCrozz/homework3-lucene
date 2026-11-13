@@ -1,0 +1,3 @@
+Definite Exponential Integrals A (Algorithm 108)
+
+Authors: Kruglyak, Y. A.; Whitman, D. R.

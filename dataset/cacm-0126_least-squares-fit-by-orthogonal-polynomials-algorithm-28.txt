@@ -1,0 +1,3 @@
+Least Squares Fit By Orthogonal polynomials (Algorithm 28)
+
+Authors: Mackinney, J. G.

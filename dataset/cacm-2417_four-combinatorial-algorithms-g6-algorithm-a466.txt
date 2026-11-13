@@ -1,0 +1,3 @@
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+
+Authors: Ehrlich, G.

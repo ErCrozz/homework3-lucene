@@ -1,0 +1,3 @@
+Pseudo-Random Numbers (Algorithm 266 [G5])
+
+Authors: Pike, M. C.; Hill, I. D.

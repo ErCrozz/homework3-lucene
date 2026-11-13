@@ -1,0 +1,3 @@
+Symbol Manipulation by Threaded Lists
+
+Authors: Perlis, A. J.; Thornton, C.

@@ -1,0 +1,3 @@
+Arithmetizing Declarations: An Application to COBOL
+
+Authors: Conway, M. E.; Speroni, J.

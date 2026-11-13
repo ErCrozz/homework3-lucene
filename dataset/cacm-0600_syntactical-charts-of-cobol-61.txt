@@ -1,0 +1,3 @@
+Syntactical Charts of COBOL 61
+
+Authors: Berman, R.; Sharp, J.; Sturges, L.

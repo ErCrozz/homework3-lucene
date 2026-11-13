@@ -1,0 +1,3 @@
+An Extension to ALGOL for Manipulating Formulae*
+
+Authors: Perlis, A. J.; Iturriaga, R.

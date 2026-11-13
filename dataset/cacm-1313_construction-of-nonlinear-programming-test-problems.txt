@@ -1,0 +1,3 @@
+Construction of Nonlinear Programming Test Problems
+
+Authors: Rosen, J. B.; Suzuki, S.

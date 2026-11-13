@@ -1,0 +1,3 @@
+Polynomial Transformer (Algorithm 29)
+
+Authors: Mackinney, J. G.

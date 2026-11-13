@@ -1,0 +1,3 @@
+Euclidian Algorithm (Algorithm 7)
+
+Authors: Claussen, R.

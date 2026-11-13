@@ -1,0 +1,3 @@
+Arccossin (Algorithm 206 [B1])
+
+Authors: Bowlden, H. J.
